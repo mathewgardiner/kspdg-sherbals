@@ -1,3 +1,11 @@
+# KSPDG - Sherbals
+
+## Using this repo
+
++ Any work should be done on a new branch created from `dev`
++ `dev` can stay pretty open, if something is working well and the team generally agrees, commits can be merged back into `dev` without pull requests.
++ `master` should be our working solutions that we are submitting to the competition. To merge from `dev` to `master` we need to submit a pull request that is approved by John.   
+
 # KSPDG: Kerbal Space Program Differential Games
 
 <img src="docs/20230309_logo.png" width="250">   <img src="docs/20230831_LBG1_LG1_I2_Demo_reduced.gif" width="400">
